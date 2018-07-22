@@ -1,0 +1,15 @@
+<resources>
+	<string name="app_name">MovileNext_Aula2_Kotlin</string>
+	<string name="kotlin_description">
+		Kotlin é uma Linguagem de programação que compila
+para a Máquina virtual Java e que também pode ser traduzida
+para JavaScript e compilada para código nativo. É
+desenvolvida pela JetBrains, seu nome é baseado na ilha de
+Kotlin onde se situa a cidade russa de Kronstadt, próximo à
+São Petersburgo. Apesar de a sintaxe de Kotlin diferir da de
+Java, Kotlin é projetada para ter uma interoperabilidade
+total com código Java. Foi considerada pelo público a 2ª
+linguagem 'mais amada', de acordo com uma pesquisa conduzida
+pelo site Stack Overflow em 2018.
+	</string>
+</resources>
